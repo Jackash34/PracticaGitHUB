@@ -1,7 +1,19 @@
 package Calculadora;
 
+/**
+ * La clase Programa contiene el main del programa. Desde esta clase se pueden generar calculadoras mediante
+ * el constructor parametrizado de la clase Calculadora.
+ * La clase Programa es también la clase encargada de ejecutar la aplicación.
+ * @author miguel
+ *
+ */
 public class Programa {
 	
+	/**
+	 * Este es el main desde donde se inicia el programa y se realizan las pruebas pertinentes para 
+	 * comprobar la funcionalidad de la clase Calculadora.
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		//TODO: Crear un programa principal que 
 		//utilice todas las funciones de la calculadora
