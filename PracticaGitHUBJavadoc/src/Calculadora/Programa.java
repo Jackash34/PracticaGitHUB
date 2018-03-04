@@ -23,10 +23,5 @@ public class Programa {
 		Calculadora calculadora3 = new Calculadora(2, -3);
 		System.out.println(calculadora3.potencia());
 		
-		/*Calculadora finalizada y operativa
-
-En este commit se han finalizado los métodos necesarios para que la calculadora (clase Calculadora) funcione correctamente según las pautas establecidas.
-También se ha realizado la clase Programa, la cual ejecuta todas las funciones del */
-		
 	}
 }
